@@ -1,0 +1,11 @@
+[[media]]
+file = "chain.json.gz"
+name = "Pressure becomes a chain reaction"
+
+[[media]]
+file = "board.png"
+name = "Every stone has a breaking point"
+
+[[media]]
+file = "title.png"
+name = "Welcome to the lapidary bench"

@@ -1,0 +1,6 @@
+/* Preserve the page's viewport-sized layout when the runtime adds intrinsic-size
+   inline styles. Backing-store dimensions and the logical fit remain engine-owned. */
+#stage {
+  width: 100vw !important;
+  height: 100vh !important;
+}
